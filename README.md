@@ -67,5 +67,10 @@ Sou Luis Henrique, estudante de Informática construindo minha carreira como fut
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"      
 />
 
+#### 🐍 Meus commits sendo devorados
+
+![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+
+
 <br/>
 <br/>
